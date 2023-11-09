@@ -1,0 +1,8 @@
+- ssh-keygen для создания ssh ключа
+- git config --global user.name "username" привязка акк
+- git config --global user.email "email" привязка почты
+
+- git init cделать из папки репозиторий
+- git add название файла что бы добавить файл в индекс
+- git commit -m "commit messsage" чтобы зафиксировать все изменения и написать сообщение к комиту
+- git push origin <название ветки> чтобы все коммиты залить уже на сайт
